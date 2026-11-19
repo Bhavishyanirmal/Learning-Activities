@@ -69,12 +69,6 @@ while(start_quiz!=0):
 
 
 
-
-
-                (Qmodule)
-
-
-
 def Easy():
     score = 0
     unique=0
